@@ -1,5 +1,6 @@
 # Contributors
 - [CemreTheBoss](https://github.com/cemrenurkeles)
+- Nthabeleng Ralekholela (https://github.com/Nthaz)
 - Rachel W
 - [Arsile](https://github.com/itsarsile)
 - Srihari C 
